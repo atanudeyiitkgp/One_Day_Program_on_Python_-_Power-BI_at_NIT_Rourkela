@@ -1,4 +1,4 @@
-Please follow the below steps for Python:
+**Please follow the below steps for Python:**
 
   i.   Please upload the ipynb file in your jupyter notebook.
   
